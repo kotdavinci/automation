@@ -25,6 +25,13 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- http://ru.selenide.org/quick-start.html -->
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>4.11.4</version>
+            <scope>test</scope>
+        </dependency>
 
 
 
